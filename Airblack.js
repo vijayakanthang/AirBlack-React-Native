@@ -20,6 +20,7 @@ const Airblack = () => {
       <Image source={top} style={styles.image} />
       <Text style={styles.header}>Professional Online Makeup Course</Text>
       <View style={styles.ct}>
+      {/* <Image source={{uri:'https://cdn-icons-png.flaticon.com/128/865/865288.png'}} style={styles.iconBox}/> */}
       <Text style={styles.subHeader}>Certification Programme</Text>
       <Text style={styles.rating}>Rated 4.85/5</Text>
       </View>
